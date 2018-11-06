@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 1231-8037
+
+ Directory of C:\tmp\cs50
+
+11/06/2018  06:55 PM    <DIR>          .
+11/06/2018  06:55 PM    <DIR>          ..
+11/06/2018  06:54 PM    <DIR>          CS50W
+11/06/2018  06:55 PM                 0 hello.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  70,041,272,320 bytes free
